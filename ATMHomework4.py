@@ -135,12 +135,6 @@ else:
 
 
 
-# Exceptions are raised when some internal events occur which changes the normal flow of the programme
-# Try and except statements are used to catch and handle exceptions in Python.
-# Statements that can raise exceptions are kept inside the try clause and the statements
-# # that handle the exception are written inside the except clause
-#
-#
 
 import unittest
 class ATMTestCase(unittest.TestCase)
